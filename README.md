@@ -1,7 +1,7 @@
-#Défi web
+# Défi web
 Répondez aux questions suivantes en cherchant dans le web...
 
-##Questions niveau 1
+## Questions niveau 1
 * Par qui, quand, pourquoi et où a été inventé Internet ?
 * Quelle est la différence entre le Web et Internet ?
 * Que sont le copyright et le copyleft ?
@@ -66,7 +66,7 @@ Répondez aux questions suivantes en cherchant dans le web...
 * Trouver la meilleure réponse (la plus populaire) sur StackOverflow
 * Trouver un schéma listant la chronologie des navigateurs web
 
-##Questions niveau 2
+## Questions niveau 2
 * Qu’est-ce que cela :
     * 8.8.8.8
     * 192.168.0.1
@@ -96,7 +96,7 @@ Répondez aux questions suivantes en cherchant dans le web...
 * Rechercher le mot le plus rechercher aujourd'hui, en France
 * Quel est la légende autour d'Atari et d'un petit homme vert ?
 
-##Questions niveau 3 (recherches sur Google)
+## Questions niveau 3 (recherches sur Google)
 * Quelle est la différence entre les recherches : **J'ai encore faim** et **"Jai encore faim"**
 * Trouver un moyen pour ajouter des mots inconnus dans une recherche
 * Que se passe-t-il lorsque Google n'a plus de connexion ?
